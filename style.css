@@ -1,0 +1,33 @@
+body{
+    font-family: 'Lora', serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color: red;
+}
+section{
+    display: flex;
+} 
+.half-width{
+    width:50%;
+ 
+
+}
+.half-width img{
+    width:80%
+}
+.link-button{
+    text-decoration: none;
+   background-image: linear-gradien(blue,red);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400 ;
+    border-radius: 7 px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
